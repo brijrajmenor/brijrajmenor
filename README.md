@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @brijrajmenor
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently in Diploma in Computer Engineering (3rd Year)
+- 🌱 I’m currently in Engineering Third year in CyberSecurity
 - 📫 Reach me here: brijrajsingh508@gmail.com
