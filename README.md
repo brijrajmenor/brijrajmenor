@@ -30,7 +30,11 @@ A simple web-based application for tracking daily expenses, built with Python, S
 ### ☀️ Weather App
 A web application to check the current weather of any city using OpenWeatherMap API.
 - [Repository](https://github.com/brijrajmenor/brijrajmenor.github.io)
-
+  
+### 🎟️ Ticket Booking
+A web application made using HTML, Bootstrap. It uses Google Firebase as the backend
+- [Repository](https://github.com/brijrajmenor/Ticket-Booking)
+- [See it Live](https://ticket-booking-b4ca9.web.app/)
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brijrajmenor&layout=compact&theme=radical)
