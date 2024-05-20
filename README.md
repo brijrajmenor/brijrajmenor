@@ -33,7 +33,6 @@ A web application to check the current weather of any city using OpenWeatherMap 
 
 ## 📊 GitHub Stats
 
-![Brijraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=brijrajmenor&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brijrajmenor&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
